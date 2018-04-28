@@ -1,0 +1,6 @@
+Location Selected: Kansas City, Missouri
+
+Map URL: https://www.openstreetmap.org/search?query=kansas%20city%20missouri#map=10/39.0928/-94.5758
+
+Context:
+This area is in Northwest Missouri and sits on the border of Northeast Kansas. I chose this area as it is close to my hometown, my family enjoy trips to the area, and one of our favorite baseball teams is the KC Royals. As such, I thought it'd be an interesting area to comb through and clean data.
